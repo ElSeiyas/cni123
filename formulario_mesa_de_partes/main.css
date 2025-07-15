@@ -1,0 +1,12 @@
+body{
+/*    background: #673AB7;*/
+}
+header{
+    background:#06368b;
+}
+
+
+/*para alinear los botones y cuadro de busqueda*/
+.btn-group, .btn-group-vertical {
+    position: absolute !important;
+}
